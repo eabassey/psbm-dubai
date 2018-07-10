@@ -32,13 +32,13 @@
               "src/assets/vendor/slider/css/preview.css"
             ],
             "scripts": [
-              "src/assets/js/modernizr-2.8.3.min.js",
               "src/assets/js/jquery-2.2.4.min.js",
+              "src/assets/vendor/slider/js/jquery.nivo.slider.js",
+              "src/assets/vendor/slider/home.js",
+              "src/assets/js/modernizr-2.8.3.min.js",
               "src/assets/js/plugins.js",
               "src/assets/js/popper.js",
               "src/assets/js/bootstrap.min.js",
-              "src/assets/vendor/slider/js/jquery.nivo.slider.js",
-              "src/assets/vendor/slider/home.js",
               "src/assets/js/jquery.meanmenu.min.js",
               "src/assets/js/jquery.scrollUp.min.js",
               "src/assets/js/jquery.counterup.min.js",
